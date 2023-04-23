@@ -2,3 +2,4 @@
 *.zip
 *models/
 *__pycache__
+*data/
